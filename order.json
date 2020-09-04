@@ -1,0 +1,12 @@
+{
+    "external_reference": "Factura-0001",
+    "notification_url": "https://hookb.in/kxJD1ggqK2HrOOoLbpWp",
+    "items" :[{
+               "title" : "Snickers",
+               "currency_id" : "COP",
+               "unit_price" : 5000,
+               "quantity" : 1,
+               "description": "Chocolatina"
+              }],
+     "collector_id":629437702
+}
