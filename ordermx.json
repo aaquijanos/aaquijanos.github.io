@@ -1,0 +1,12 @@
+{
+    "external_reference": "Factura-0001",
+    "notification_url": "https://hookb.in/lJyNWdRl12IrXXZWdLKK",
+    "items" :[{
+               "title" : "Combustible",
+               "currency_id" : "MXN",
+               "unit_price" : 50,
+               "quantity" : 1,
+               "description": "1 Galon de Combustible"
+              }],
+     "collector_id":678628156
+}
