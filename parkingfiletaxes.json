@@ -1,0 +1,25 @@
+{
+  "total_amount": 12000,
+  "collector_id": 683948513, 
+  "description": "Estadía camioneta", 
+  "title": "3 horas",
+  "items": [
+    {
+      "total_amount": 12000,
+      "description": "Estadía camioneta", 
+      "title": "3 horas",
+      "unit_price": 12000,
+      "quantity": 1
+    } ],
+  "notification_url": "https://hookb.in/r1o3onEXd8IzWWJVyBZZ", 
+  "external_reference": "TICKET-000001", 
+  "aditional_data": {
+    "car_license_plate": "ABC123"
+  },
+  "taxes": [
+        {
+            "value": 0,
+            "type": "IVA"
+        }
+    ]
+}
