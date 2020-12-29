@@ -1,0 +1,25 @@
+{
+  "total_amount": 0,
+  "collector_id": 683948513, 
+  "description": "Nada para pagar", 
+  "title": "Nada para pagar",
+  "items": [
+    {
+      "total_amount": 0,
+      "description": "Nada para pagar", 
+      "title": "Nada para pagar",
+      "unit_price": 0,
+      "quantity": 1
+    } ],
+  "notification_url": "https://hookb.in/r1o3onEXd8IzWWJVyBZZ", 
+  "external_reference": "TICKET-000001", 
+  "aditional_data": {
+    "car_license_plate": "ABC123"
+  },
+  "taxes": [
+        {
+            "value": 0,
+            "type": "IVA"
+        }
+    ]
+}
