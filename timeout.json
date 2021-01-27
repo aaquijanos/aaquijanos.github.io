@@ -1,5 +1,6 @@
 {
     "error": {
-        "type": "timeout"
+        "type": "timeout",
+        "message":"Hello"
     }
 }
