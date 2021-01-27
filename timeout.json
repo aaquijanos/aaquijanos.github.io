@@ -1,6 +1,6 @@
 {
     "error": {
-        "type": "timeout",
+        "type": "unavailable",
         "message":"Hello"
     }
 }
