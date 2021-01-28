@@ -12,6 +12,7 @@
       "quantity": 1
     } ],
   "notification_url": "https://hookb.in/6JwPWKOBo7FLbb031ELa", 
+  "external_reference": "TICKET-000001", 
   "aditional_data": {
     "car_license_plate": "ABC123"
   },
