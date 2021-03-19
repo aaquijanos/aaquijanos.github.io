@@ -9,12 +9,12 @@
          "unit_price": 500.00
       }
     ],
-    "external_reference": "b1c6e579-7df2-4314-bb16-74c9cc5d4893",
+    "external_reference": "b1c6e579-7df2-4314-bb16-74c9cc5d4894",
     "notification_url": "https://hookb.in/Dr3wXmJ7kxSdNNEwex8e",
      "loyalty": {
         "program": "serviclub",
-        "transaction_id": "00029-45ea90da",
-        "invoice_number": "45ea80da",
+        "transaction_id": "00029-45ea90da01",
+        "invoice_number": "45ea80da01",
         "transaction_date": "2019-12-12T10:40:49.000+00:00",
         "transaction_amount": 100,
         "store_id": "00029",
