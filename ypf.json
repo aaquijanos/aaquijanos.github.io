@@ -3,7 +3,7 @@
     "items": [
       {
          "title":" $500.00 de SUPER",
-         "currency_id": ARS,
+         "currency_id": "ARS",
          "description":"$500.00 de SUPER",
          "quantity": 1.0,
          "unit_price": 500.00
@@ -12,17 +12,17 @@
     "external_reference": "b1c6e579-7df2-4314-bb16-74c9cc5d4894",
     "notification_url": "https://hookb.in/Dr3wXmJ7kxSdNNEwex8e",
      "loyalty": {
-        "program": "serviclub,
+        "program": "serviclub",
         "transaction_id": "00029-45ea90da01",
         "invoice_number": "45ea80da01",
         "transaction_date": "2019-12-12T10:40:49.000+00:00",
-        "transaction_amount": 100,
+        "transaction_amount": 1.0.0,
         "store_id": "00029",
         "products": [{
             "code": "2",
             "quantity": 10.0,
             "unit": "litre",
-            "unit_price": 10.0
+            "unit_price": 1.0.0
             }],
         "cashier_identification": {
             "type": "DNI",
