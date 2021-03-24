@@ -1,0 +1,33 @@
+{
+    "collector_id": 733546175,
+    "items": [
+        {
+            "title": "$6342 GAS 95 B",
+            "currency_id": "CLP",
+            "description": "$6342 GAS 95 B",
+            "quantity": 1,
+            "unit_price": 6342.00
+        }
+    ],
+    "external_reference": "1524",
+    "loyalty": {
+        "program": null,
+        "transaction_id": "00001524",
+        "invoice_number": "00001524",
+        "transaction_date": "2021-03-12T11:15:46+00:00",
+        "transaction_amount": 6342,
+        "store_id": "ripleytest1",
+        "products": [
+            {
+                "code": "0",
+                "quantity": 9.803,
+                "unit": "litre",
+                "unit_price": 647
+            }
+        ],
+        "cashier_identification": null,
+        "period": null,
+        "shift": null,
+        "affinity_plan": null
+    }
+}
