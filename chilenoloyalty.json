@@ -9,25 +9,5 @@
             "unit_price": 127.90
         }
     ],
-    "external_reference": "246282",
-    "loyalty": {
-        "program": null,
-        "transaction_id": "00246282",
-        "invoice_number": "00246282",
-        "transaction_date": "2021-03-12T10:41:52+00:00",
-        "transaction_amount": 127.9,
-        "store_id": "Testserbiznet1",
-        "products": [
-            {
-                "code": "0",
-                "quantity": 1.647,
-                "unit": "litre",
-                "unit_price": 77.7
-            }
-        ],
-        "cashier_identification": null,
-        "period": null,
-        "shift": null,
-        "affinity_plan": null
-    }
+    "external_reference": "246282"
 }
