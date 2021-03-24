@@ -2,27 +2,27 @@
     "collector_id": 733546175,
     "items": [
         {
-            "title": "$6342 GAS 95 B",
+            "title": "$127.9 AXION SUPER BIO",
             "currency_id": "CLP",
-            "description": "$6342 GAS 95 B",
+            "description": "$127.9 AXION SUPER BIO",
             "quantity": 1,
-            "unit_price": 6342.00
+            "unit_price": 127.90
         }
     ],
-    "external_reference": "1524",
+    "external_reference": "246282",
     "loyalty": {
         "program": null,
-        "transaction_id": "00001524",
-        "invoice_number": "00001524",
-        "transaction_date": "2021-03-12T11:15:46+00:00",
-        "transaction_amount": 6342,
-        "store_id": "ripleytest1",
+        "transaction_id": "00246282",
+        "invoice_number": "00246282",
+        "transaction_date": "2021-03-12T10:41:52+00:00",
+        "transaction_amount": 127.9,
+        "store_id": "Testserbiznet1",
         "products": [
             {
                 "code": "0",
-                "quantity": 9.803,
+                "quantity": 1.647,
                 "unit": "litre",
-                "unit_price": 647.1
+                "unit_price": 77.7
             }
         ],
         "cashier_identification": null,
