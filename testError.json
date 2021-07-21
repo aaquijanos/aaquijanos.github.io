@@ -1,0 +1,20 @@
+{
+    "collector_id": "683948513",
+    "items": [
+        {
+            "title": "TANQUEO 1,169 gal CORRIENTE",
+            "currency_id": "COP",
+            "description": "TANQUEO 1,169 gal CORRIENTE",
+            "quantity": 1,
+            "unit_price": 10000
+        }
+    ],
+    "taxes": [
+        {
+            "type": "IVA",
+            "value": 0
+        }
+    ],
+    "external_reference": "PruebaError",
+    "notification_url": "https://hookb.in/QJJmWBWONMU8mNzzmDko"
+}
