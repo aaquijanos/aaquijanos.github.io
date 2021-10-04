@@ -20,7 +20,7 @@
     "taxes": [
       {
         "type": "IVA",
-        "value": "130"
+        "value": 130
       }
     ]
 }
