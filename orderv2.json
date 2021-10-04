@@ -1,0 +1,20 @@
+{
+    "external_reference": "Ticket-00001",
+    "total_amount": 10000,
+    "items": [
+        {
+            "sku_number": "KS955RUR",
+            "category": "OIL",
+            "title": "Combustible",
+            "description": "Compra de combustible",
+            "unit_price": 2000,
+            "quantity": 5,
+            "unit_measure": "unit",
+            "total_amount": 10000
+        }
+    ],
+    "title": "Compra de combustible",
+    "description": "Compra de combustible - 2 Litros",
+    "expiration_date": "2023-12-09T11:43:56.559-05:00",
+    "notification_url": "https://hookb.in/Z2rq63MM2qtK6bmm6KG1"
+}
