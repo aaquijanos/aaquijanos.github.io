@@ -1,0 +1,14 @@
+{
+  "collector_id": "1837126050",
+  "items": [
+    {
+      "title": "$ 400.00 Servicio de: Grupo Com. e Ind. Farina_ S.A.",
+      "currency_id": "ARS",
+      "description": "$ 400.00 Servicio de: Grupo Com. e Ind. Farina_ S.A.",
+      "quantity": 1,
+      "unit_price": 400
+    }
+  ],
+  "external_reference": "00000000023-00000000000000079424",
+  "notification_url": "https://webhook.site/de1226e7-1ad3-4b3c-854e-8be726e4fc93"
+}
